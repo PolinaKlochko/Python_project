@@ -21,3 +21,8 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Jupyter Notebooks**: The tool I used to run my Python scripts which let me easily include my notes and analysis.
 - **Visual Studio Code**: My go-to for executing my Python scripts.
 - **GitHub**: Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+
+# Data Preparation and Cleanup
+This section outlines the steps taken to prepare the data for analysis, ensuring accuracy and usability.
+
+## Import & Clean Up Data
