@@ -43,4 +43,8 @@ df = dataset['train'].to_pandas()
 df['job_posted_date'] = pd.to_datetime(df['job_posted_date'])
 df['job_skills'] = df['job_skills'].apply(lambda x: ast.literal_eval(x) if pd.notna(x) else x)
 ```
-
+## Filter US Jobs
+To focus my analysis on India job market, I apply filters to the dataset, narrowing down to roles based in India.
+```python
+df_India = df[df['job_country'] == 'India']
+```
