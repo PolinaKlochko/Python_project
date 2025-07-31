@@ -27,7 +27,7 @@ This section outlines the steps taken to prepare the data for analysis, ensuring
 
 ## Import & Clean Up Data
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
-```
+```python
 # Importing Libraries
 import ast
 import pandas as pd
