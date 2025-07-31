@@ -27,7 +27,7 @@ This section outlines the steps taken to prepare the data for analysis, ensuring
 
 ## Import & Clean Up Data
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
-'''
+```
 # Importing Libraries
 import ast
 import pandas as pd
@@ -42,4 +42,5 @@ df = dataset['train'].to_pandas()
 # Data Cleanup
 df['job_posted_date'] = pd.to_datetime(df['job_posted_date'])
 df['job_skills'] = df['job_skills'].apply(lambda x: ast.literal_eval(x) if pd.notna(x) else x)
-'''
+```
+
