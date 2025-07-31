@@ -48,3 +48,5 @@ To focus my analysis on India job market, I apply filters to the dataset, narrow
 ```python
 df_India = df[df['job_country'] == 'India']
 ```
+# The Analysis
+Each Jupyter notebook for this project aimed at investigating specific aspects of the data job market. Here’s how I approached each question:
