@@ -109,7 +109,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
 ### Results
-
+![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Salary%20Distributions%20of%20Data%20Jobs.png)
 
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
