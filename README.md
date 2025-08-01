@@ -159,4 +159,25 @@ plt.show()
 - Specialized skills like MongoDB, Looker, and Spark offer the highest salaries (>$110K) despite being less common in job listings, indicating high value and low supply.
 - Widely required tools like SQL, Excel, and Python appear in 40–50% of job posts but offer moderate salaries (~$96K–$98K), showing they're essential but not highly paid alone.
 - Tools like Power BI and Tableau strike the best balance—they are fairly common and offer strong median salaries (~$108K–$112K), making them optimal for career growth.
+## Visualizing Different Techonologies
+Let's visualize the different technologies as well in the graph. We'll add color labels based on the technology (e.g., {Programming: Python})
+### Visualize Data
+```python
+from matplotlib.ticker import PercentFormatter
 
+# Create a scatter plot
+scatter = sns.scatterplot(
+    data=df_DA_skills_tech_high_demand,
+    x='skill_percent',
+    y='median_salary',
+    hue='technology',  # Color by technology
+    palette='bright',  # Use a bright palette for distinct colors
+    legend='full'  # Ensure the legend is shown
+)
+plt.show()
+```
+### Results
+![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Most%20Optimal%20Skills%20for%20Data%20Analyst%20in%20India%20with%20coloring.png)
+
+*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India with color labels for technology.*
+### Insights:
