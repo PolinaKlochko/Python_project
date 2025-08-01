@@ -58,9 +58,11 @@ View my notebook with detailed steps here: [2_Skills_Demand](https://github.com/
 ### Visualize Data
 ```python
 fig, ax = plt.subplots(len(job_titles), 1)
+
 for i, job_title in enumerate(job_titles):
     df_plot = df_skills_count[df_skills_count['job_title_short'] == job_title].head(5)[::-1]
     sns.barplot(data=df_plot, x='skill_count', y='job_skills', ax=ax[i], hue='skill_count', palette='crest')
+
 plt.show()
 ```
 
