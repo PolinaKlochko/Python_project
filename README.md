@@ -20,10 +20,10 @@ To explore the data analyst job market in depth, I utilized a range of essential
   - **Seaborn Library**: Helped me create more advanced visuals.
 - **Jupyter Notebooks**: The tool I used to run my Python scripts which let me easily include my notes and analysis.
 - **Visual Studio Code**: My go-to for executing my Python scripts.
-- **GitHub**: Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+- **GitHub**: Essential for sharing my Python code and analysis.
 
 # Data Preparation and Cleanup
-This section outlines the steps taken to prepare the data for analysis, ensuring accuracy and usability.
+This section describes the steps taken to clean and prepare the data for accurate and effective analysis.
 
 ## Import & Clean Up Data
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
