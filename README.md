@@ -65,4 +65,6 @@ for i, job_title in enumerate(job_titles):
 
 plt.show()
 ```
+### Results
+![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Likelihood%20of%20Skills%20Requested%20in%20Indian%20Job%20Postings.png)
 
