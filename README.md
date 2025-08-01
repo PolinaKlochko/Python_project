@@ -67,4 +67,4 @@ plt.show()
 ```
 ### Results
 ![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Likelihood%20of%20Skills%20Requested%20in%20Indian%20Job%20Postings.png)
-
+*Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
