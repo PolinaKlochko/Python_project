@@ -156,5 +156,7 @@ plt.show()
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India.*
 ### Insights:
-
+- Specialized skills like MongoDB, Looker, and Spark offer the highest salaries (>$110K) despite being less common in job listings, indicating high value and low supply.
+- Widely required tools like SQL, Excel, and Python appear in 40–50% of job posts but offer moderate salaries (~$96K–$98K), showing they're essential but not highly paid alone.
+- Tools like Power BI and Tableau strike the best balance—they are fairly common and offer strong median salaries (~$108K–$112K), making them optimal for career growth.
 
