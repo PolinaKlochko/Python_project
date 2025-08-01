@@ -94,5 +94,5 @@ plt.show()
 *Bar graph visualizing the trending top skills for data analysts in India in 2023.*
 ### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
-- Excel experienced a significant increase in demand starting around September, surpassing both Python and Tableau by the end of the year.
+- Excel experiences a sharp spike in May, reaching its peak (~58%), but then declines and stabilizes toward the end of the year.
 - Both Python and Tableau show relatively stable demand throughout the year with some fluctuations but remain essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
