@@ -182,7 +182,7 @@ plt.show()
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India with color labels for technology.*
 ### Insights:
 - Programming skills like Python and R offer elevated salary potential (up to ~$98K for Python), even with lower demand (<20%), underscoring the value of strong coding skills in data analytics roles.
-- Database technologies, including MongoDB (~$160K) and SQL Server (~$90K–$100K), exhibit a broad salary range, with MongoDB providing niche, high-paying opportunities despite minimal demand (<10%).
+- Database technologies, including MongoDB (~ $160K) and SQL Server (~ $90K–$100K), exhibit a broad salary range, with MongoDB providing niche, high-paying opportunities despite minimal demand (<10%).
 - Analyst tools such as Power BI, Tableau, and Excel balance demand (20–40%) with salaries exceeding $100K, positioning them as critical and market-relevant skills for professional growth.
 # What I Learned
 Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization. Here are a few specific things I learned:
