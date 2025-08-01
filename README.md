@@ -78,3 +78,15 @@ To find how skills are trending in 2023 for Data Analysts, I filtered data analy
 
 View my notebook with detailed steps here: [3_Skills_Trend](https://github.com/PolinaKlochko/Python_project/blob/main/3_Skills_Trend.ipynb).
 ### Visualize Data
+```python
+from matplotlib.ticker import PercentFormatter
+
+df_plot = df_DA_India_percent.iloc[:, :5]
+sns.lineplot(data=df_plot, dashes=False, legend='full', palette='tab10')
+
+plt.gca().yaxis.set_major_formatter(PercentFormatter(decimals=0))
+
+plt.show()
+```
+### Results
+![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Trending%20Top%20Skills%20for%20Data%20Analysts%20in%20India.png)
