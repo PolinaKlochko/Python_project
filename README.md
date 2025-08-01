@@ -156,9 +156,9 @@ plt.show()
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India.*
 ### Insights:
-- Specialized skills like MongoDB, Looker, and Spark offer the highest salaries (>$110K) despite being less common in job listings, indicating high value and low supply.
-- Widely required tools like SQL, Excel, and Python appear in 40–50% of job posts but offer moderate salaries (~$96K–$98K), showing they're essential but not highly paid alone.
-- Tools like Power BI and Tableau strike the best balance—they are fairly common and offer strong median salaries (~$108K–$112K), making them optimal for career growth.
+- Specialized skills like MongoDB, Looker, and Spark command the highest salaries (over $110K), despite appearing in less than 20% of job listings, highlighting their high value and scarcity.
+- Essential skills like SQL, Excel, and Python are prevalent in 40–50% of job postings but offer moderate salaries (~$96K–$98K), indicating they are foundational yet not highly lucrative on their own.
+- Tools such as Power BI and Tableau strike an optimal balance, with 20–30% job demand and robust median salaries (~$108K–$112K), making them ideal for career advancement.
 ## Visualizing Different Techonologies
 Let's visualize the different technologies as well in the graph. We'll add color labels based on the technology (e.g., {Programming: Python})
 ### Visualize Data
@@ -181,9 +181,9 @@ plt.show()
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India with color labels for technology.*
 ### Insights:
-- Programming skills (e.g., Python, R) tend to offer higher salary potential, even when they aren't the most in-demand. This suggests that strong coding abilities are a key salary driver in data analytics roles.
-- Database technologies like MongoDB and SQL Server show extremely high salary ranges, especially MongoDB (~$165K), despite low demand. These rare skills may offer niche, high-paying opportunities.
-- Analyst tools (e.g., Power BI, Tableau, Excel) strike the best balance between demand and salary, appearing frequently in job listings and offering salaries above $100K—making them essential for market-relevant skills.
+- Programming skills like Python and R offer elevated salary potential (up to ~$98K for Python), even with lower demand (<20%), underscoring the value of strong coding skills in data analytics roles.
+- Database technologies, including MongoDB (~$160K) and SQL Server (~$90K–$100K), exhibit a broad salary range, with MongoDB providing niche, high-paying opportunities despite minimal demand (<10%).
+- Analyst tools such as Power BI, Tableau, and Excel balance demand (20–40%) with salaries exceeding $100K, positioning them as critical and market-relevant skills for professional growth.
 # What I Learned
 Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization. Here are a few specific things I learned:
 - **Advanced Python Usage**: Utilizing libraries such as Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and other libraries helped me perform complex data analysis tasks more efficiently.
