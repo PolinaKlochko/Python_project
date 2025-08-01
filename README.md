@@ -135,4 +135,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 ![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Highest%20Paid%20Skills%20and%20Most%20In-demand%20Skills%20for%20Data%20Analyst%20in%20India.png)
 
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in India.*
-
+### Insights:
+- High-paying skills for data analysts in India include technical tools like pyspark, Linux, GitLab, MySQL, PostgreSQL, and MongoDB, all associated with median salaries above $140K. Mastery of backend and engineering-related tools appears to strongly boost earning potential.
+- Most in-demand skills, such as MongoDB, Power BI, Tableau, Excel, and SQL, are centered around data visualization, reporting, and database management. These are essential for day-to-day analysis work, even if they don’t command the highest salaries.
+- There’s a clear gap between what pays the most and what’s most in demand — suggesting that data analysts should balance their skillset by learning foundational tools for employability and niche or technical tools for salary growth.
