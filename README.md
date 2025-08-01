@@ -181,3 +181,17 @@ plt.show()
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India with color labels for technology.*
 ### Insights:
+- Programming skills (e.g., Python, R) tend to offer higher salary potential, even when they aren't the most in-demand. This suggests that strong coding abilities are a key salary driver in data analytics roles.
+- Database technologies like MongoDB and SQL Server show extremely high salary ranges, especially MongoDB (~$165K), despite low demand. These rare skills may offer niche, high-paying opportunities.
+- Analyst tools (e.g., Power BI, Tableau, Excel) strike the best balance between demand and salary, appearing frequently in job listings and offering salaries above $100K—making them essential for market-relevant skills.
+# What I Learned
+Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization. Here are a few specific things I learned:
+- **Advanced Python Usage**: Utilizing libraries such as Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and other libraries helped me perform complex data analysis tasks more efficiently.
+- **Data Cleaning Importance**: I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the accuracy of insights derived from the data.
+- **Strategic Skill Analysis**: The project emphasized the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
+## Insights
+This project provided several general insights into the data job market for analysts:
+- **Skill Demand and Salary Correlation**: There is a clear correlation between the demand for specific skills and the salaries these skills command. Advanced and specialized skills like Python and Oracle often lead to higher salaries.
+- **Market Trends**: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career growth in data analytics.
+- **Economic Value of Skills**: Understanding which skills are both in-demand and well-compensated can guide data analysts in prioritizing learning to maximize their economic returns.
+## Challenges I Faced
