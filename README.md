@@ -116,3 +116,23 @@ plt.show()
 - Machine Learning Engineers and Data Scientists have the widest salary ranges among all roles, indicating high earning potential as well as variability depending on experience, company, or skill level. Both roles have upper ranges extending well beyond $200K.
 - Data Engineers show a relatively high and consistent salary distribution, with a strong median compared to Data Analysts and Software Engineers, suggesting solid demand and compensation for infrastructure-focused data roles.
 - Software Engineers and Data Analysts have narrower and lower salary ranges compared to more specialized roles. Their median salaries are also among the lowest, reflecting entry- to mid-level compensation and potentially fewer domain-specific requirements.
+## Highest Paid & Most Demanded Skills for Data Analysts
+Next, I narrowed my analysis and focused only on data analyst roles. I looked at the highest-paid skills and the most in-demand skills. I used two bar charts to showcase these.
+### Visualize Data
+```python
+fig, ax = plt.subplots(2, 1)  
+
+# Top 15 Highest Paid Skills for Data Analysts
+sns.barplot(data=df_DA_top_pay, x='median', y=df_DA_top_pay.index, hue='median', ax=ax[0], palette='crest')
+
+# Top 15 Most In-Demand Skills for Data Analysts')
+sns.barplot(data=df_DA_skills, x='median', y=df_DA_skills.index, hue='median', ax=ax[1], palette='crest')
+
+plt.show()
+```
+### Results
+Here's the breakdown of the highest-paid & most in-demand skills for data analysts in India:
+![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Highest%20Paid%20Skills%20and%20Most%20In-demand%20Skills%20for%20Data%20Analyst%20in%20India.png)
+
+*Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in India.*
+
