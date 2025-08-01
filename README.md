@@ -112,4 +112,7 @@ plt.show()
 ![](https://github.com/PolinaKlochko/Python_project/blob/main/images/Salary%20Distributions%20of%20Data%20Jobs.png)
 
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
-
+### Insights
+- Machine Learning Engineers and Data Scientists have the widest salary ranges among all roles, indicating high earning potential as well as variability depending on experience, company, or skill level. Both roles have upper ranges extending well beyond $200K.
+- Data Engineers show a relatively high and consistent salary distribution, with a strong median compared to Data Analysts and Software Engineers, suggesting solid demand and compensation for infrastructure-focused data roles.
+- Software Engineers and Data Analysts have narrower and lower salary ranges compared to more specialized roles. Their median salaries are also among the lowest, reflecting entry- to mid-level compensation and potentially fewer domain-specific requirements.
